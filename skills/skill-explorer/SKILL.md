@@ -5,6 +5,8 @@ description: 技能中心：盘点、搜索、创建、导入、编辑、停用�
 
 # Skill Explorer（技能中心）— 源码版
 
+中文名：技能中心（机器标识仍为 skill-explorer，改标识会影响加载与调用，见仓库 INDEX）
+
 ## 出处与上游实现（已读源码，2026-11-19，仓库 commit f8a30f1）
 
 - 上游：`zhu1090093659/dsh-web` 的 `packages/dsh-skill-explorer`，npm 包 `@linxin666/dsh-client-ui-skill-explorer` v0.4.19，BSD-3-Clause，要求 dsh >= 0.2.2-rc.3。

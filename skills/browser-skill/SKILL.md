@@ -5,6 +5,8 @@ description: 参考 Tencent/BrowserSkill（MIT）公开信息编写。用 bsk CL
 
 # BrowserSkill（bsk）浏览器自动化
 
+中文名：浏览器自动化（机器标识仍为 browser-skill，改标识会影响加载与调用，见仓库 INDEX）
+
 来源：Tencent/BrowserSkill，packages/dsh-plugin-browserskill，版本 0.5.0，MIT License。
 上游仓库：https://github.com/Tencent/BrowserSkill
 插件包：@wxg-prc-cpg/browser-skill-dsh-plugin
